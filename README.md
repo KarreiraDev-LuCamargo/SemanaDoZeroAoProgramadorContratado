@@ -64,19 +64,19 @@ _(novos diretórios e arquivos serão adicionados ao longo da evolução do proj
 **1. Clone este repositório:**  
 ```bash
 git clone https://github.com/seu-usuario/SEMANA-DO-ZERO-AO-PROGRAMADOR-CONTRATADO.git
-```
+``` <br>
 
 <img src="https://cdn-icons-png.flaticon.com/512/4205/4205993.png" width="22" align="center" alt="Passo 2"/>  
 **2. Acesse a pasta do projeto:**  
 ```bash
 cd SEMANA-DO-ZERO-AO-PROGRAMADOR-CONTRATADO
-```
+``` <br>
 
 <img src="https://cdn-icons-png.flaticon.com/512/4205/4205993.png" width="22" align="center" alt="Passo 3"/>  
 **3. Execute no navegador:**  
 - Abra o arquivo `index.html`  
 - ou utilize a extensão **Live Server** no VS Code
-
+<br>
 </p>
 
 ---
