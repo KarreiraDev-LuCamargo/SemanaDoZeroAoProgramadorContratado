@@ -86,13 +86,13 @@ cd SEMANA-DO-ZERO-AO-PROGRAMADOR-CONTRATADO
 <p align="left">
 
 <img src="https://cdn-icons-png.flaticon.com/512/9746/9746432.png" width="22" align="center" alt="Checklist"/>  
-✅ Ideia definida
+✅ Ideia definida <br><br>
 
 <img src="https://cdn-icons-png.flaticon.com/512/9746/9746432.png" width="22" align="center" alt="Checklist"/>  
-✅ Estrutura inicial configurada
+✅ Estrutura inicial configurada  <br><br>
 
 <img src="https://cdn-icons-png.flaticon.com/512/9746/9746432.png" width="22" align="center" alt="Checklist"/>  
-⏳ Desenvolvimento em andamento
+⏳ Desenvolvimento em andamento <br><br>
 
 </p>
 
@@ -104,28 +104,28 @@ cd SEMANA-DO-ZERO-AO-PROGRAMADOR-CONTRATADO
 
 <img src="https://cdn-icons-png.flaticon.com/512/4712/4712100.png" width="28" align="center" alt="IA"/>  
 **IA (Inteligência Artificial):**  
-Conjunto de tecnologias que permitem que computadores simulem a inteligência humana.  
+Conjunto de tecnologias que permitem que computadores simulem a inteligência humana.  <br><br>
 👉 No projeto, a IA interpreta o comando do usuário e gera o **código correspondente** para a animação do background.
 
 ---
 
 <img src="https://n8n.io/favicon.ico" width="28" align="center" alt="N8N"/>  
 **Automação (N8N):**  
-Plataforma de automação que conecta diferentes serviços e ferramentas sem precisar programar tudo manualmente.  
+Plataforma de automação que conecta diferentes serviços e ferramentas sem precisar programar tudo manualmente.  <br><br>
 👉 Aqui, o **N8N** automatiza a comunicação entre a IA e o frontend, entregando o resultado rapidamente.
 
 ---
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" align="center" alt="Frontend"/>  
 **Desenvolvimento Frontend:**  
-Área do desenvolvimento web focada na **parte visual e interativa** de um site.  
+Área do desenvolvimento web focada na **parte visual e interativa** de um site.  <br><br>
 👉 Envolve **HTML, CSS e JavaScript**, que constroem o que o usuário vê e interage.
 
 ---
 
 <img src="https://cdn-icons-png.flaticon.com/512/565/565547.png" width="28" align="center" alt="Background Dinâmico"/>  
 **Background dinâmico:**  
-Plano de fundo de um site que **não é estático**, mas sim animado ou alterado automaticamente.  
+Plano de fundo de um site que **não é estático**, mas sim animado ou alterado automaticamente.  <br><br>
 👉 Exemplo: partículas que se movem, transições de cores ou efeitos que respondem ao mouse.
 
 ## 👨‍💻 Autor
